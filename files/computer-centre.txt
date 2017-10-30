@@ -1,0 +1,22 @@
+
+The Delhi University Computer Centre is the central hub for ICT related services for the University of Delhi. With the commissioning of the University-wide network, via National Knowledge Network (NKN), the Computer Centre is in a unique position to serve the University for all its ICT needs.
+The University network consists of state of the art networking equipment catering to high bandwidth requirements with 10 Gbps fiber backbones at distribution level and subsequent Gigabit backbones to provide connectivity to all faculties, departments, centres at the North & South Campuses and campus colleges. Off campus colleges located in various part of Delhi are interconnected with the University network via 100 Mbps VPN connectivity for each college. 
+At present more than 15000 nodes are connected on the network being served by more than 80 servers, 400 switches, routers and security devices. All University departments and colleges are connected to NKN for resource sharing with all major educational and research institutions across the country.  ICT services including internet are being provided across the University using 2 Gbps bandwidth at North Campus and 1 Gbps at South Campus as part of NKN.
+Delhi University Computer Centre (DUCC) provides varied services to all faculty members, staff and students of University of Delhi. The services include
+ 
+
+Designing, Expansion and maintenance of campus wide network
+DU main website maintenance and hosting
+University Email server maintenance and hosting
+Web based Application Development using payment gateways etc.
+Live coverage of all major events including video conferencing of lectures
+Colleges, departments website hosting
+Hosting of servers running mission critical applications
+Colocation server hosting for academic and administrative purposes
+Training programs for faculty, staff, research scholars and PG students
+
+ 
+For any queries please contact Computer Centre at Ph:011-27667138, 27667165
+Send Email.
+ 
+For more information visit Computer Centre website.

@@ -1,0 +1,13 @@
+list
+admission
+admission
+hostel
+admissionNotice
+anti
+committeeNotice
+anti
+squadNotice
+anti
+smokingNotice
+gender
+sensitizationNotice
