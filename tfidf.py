@@ -4,10 +4,11 @@ from math import log
 from os import listdir
 from os.path import isfile, join
 from collections import defaultdict
-
+onlyfiles = [f for f in listdir("files") if isfile(join("files", f))]
+root = os.getcwd()
 DOC_COUNT = len(onlyfiles)
 #building vocabulary
-defaultdir = root + "\\coupusFiles\\" 
+defaultdir = root + "/coupusFiles/" 
 
 #Possible words in vocabulary
 vocabulary = set()
@@ -40,7 +41,7 @@ for file in onlyfiles:
 	tf = defaultdict(lambda:0)
 	for word in filecontent:
 		tf[word] += 1
-	print tf
+	print(tf)
 	tfidf["doc"+str(count)] = defaultdict(lambda:0)
 	for key in tf:
 		tfidf["doc"+str(count)][key] = tf[key]*word_idf[key]
